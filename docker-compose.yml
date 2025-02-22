@@ -6,12 +6,20 @@ services:
       - ./laravel-docker:/var/www/html
     ports:
       - 9000:80
+    depends_on:
+      mysql_db:
+        condition: service_healthy
 
   mysql_db:
     image: mysql:latest
+    container_name: mysql_db
     environment:
-        MYSQL_ROOT_PASSWORD: root
-        MYSQL_DATABASE: laravel_docker
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: laravel_docker
     ports:
       - 3307:3306
-
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      retries: 5
+      start_period: 10s
