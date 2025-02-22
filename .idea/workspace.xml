@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58c40ddb-72ed-4a1b-b473-33a3adc6530e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/laravel-docker/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laravel-vue-docker" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nuwave/lighthouse" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/haydenpierce/class-finder" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laragraph/utils" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/config" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/staabm/side-effects-detector" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/pail" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/stella-maris/clock" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/willvincent/feeds" />
+      <path value="$PROJECT_DIR$/laravel-docker/vendor/simplepie/simplepie" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tML4ijWB4gbLuOfqWOz8AFa87Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel-docker/storage" />
+      <recent name="$PROJECT_DIR$/laravel-docker" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/laravel-docker/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PS-243.24978.50" />
+        <option value="bundled-php-predefined-a98d8de5180a-fbeb0b58ac0f-com.jetbrains.php.sharedIndexes-PS-243.24978.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c40ddb-72ed-4a1b-b473-33a3adc6530e" name="Changes" comment="" />
+      <created>1740156807203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740156807203</updated>
+      <workItem from="1740156808236" duration="8239000" />
+      <workItem from="1740169483903" duration="9173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
